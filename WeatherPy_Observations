@@ -1,0 +1,4 @@
+The observable trends based on the analysis of the WeatherPy Challenge using the Linear Regression on the Scatter Plots are:
+1.	While the Temperature tended to increase constantly as the distance of the Cities to the Equator(Latitude=0) in the Southern Hemisphere, it was varying in the Northern Hemisphere.
+2.	The Humidity was above 60 for most cities in the Northern Hemisphere irrespective of the Latitude, while in the Southern Hemisphere, the Humidity was around 60 to 80 in average.
+3.	The distance from the Equator did not have any effect on the Cloudiness of the City in both Northern and Southern Hemisphere.
